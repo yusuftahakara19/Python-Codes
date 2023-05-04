@@ -13,6 +13,6 @@ Initially, words will be randomly assigned to all individuals. Throughout the pr
 
 The word lists of individuals will be optimized by genetic algorithm.
 
-WARNING: TURKISH TEXT CLASSIFICATION DATASET USED DURING RUNNİNG
+Warning : Turkish text classification dataset used during running
 <hr>
 
