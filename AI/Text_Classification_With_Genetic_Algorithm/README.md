@@ -16,3 +16,5 @@ The word lists of individuals will be optimized by genetic algorithm.
 Warning : Turkish text classification dataset used during running
 <hr>
 
+
+![1](https://user-images.githubusercontent.com/119736588/236121071-aadff7e0-d4bd-4893-a07a-f3baa4c0066e.png)
