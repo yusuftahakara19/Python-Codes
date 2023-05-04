@@ -1,8 +1,8 @@
 # Text_Classification_With_Genetic_Algorithm
-Text classification with genetic algorithm
+
  
  <hr>
-<h2></h2>
+Text classification with genetic algorithm
 In the text classification dataset containing at least 100 examples with 2 classes, individuals will consist of a list containing N words. The first part will mean belonging to the 1st class, and the last part will be to belong to the 2nd class.
 
 If a sample individual is [“beautiful”, “amazing” …“awesome”][“awful”, “terrible” …“disgusting”)], this individual will classify 100 samples according to their inclusion of these words and achieve a classification success. This achievement value will be used as a fitness function.
