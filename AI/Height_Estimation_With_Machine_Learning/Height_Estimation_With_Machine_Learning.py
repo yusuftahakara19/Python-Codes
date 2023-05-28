@@ -12,7 +12,7 @@ from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 
 # Excel dosyasını oku
-df = pd.read_excel('boytahmini.xlsx')
+df = pd.read_excel('database.xlsx')
 
 # LabelEncoder nesnesini oluştur
 label_encoder = LabelEncoder()
