@@ -2,7 +2,6 @@
 
  
  <hr>
-## Regression Analysis
 
 This Python script performs regression analysis on a dataset using various regression algorithms. It aims to predict a target variable based on the input features in the dataset. The script utilizes popular machine learning libraries such as pandas, scikit-learn, and matplotlib.
 
