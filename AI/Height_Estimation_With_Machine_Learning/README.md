@@ -51,5 +51,10 @@ The script provides visualizations of the results, including bar plots of the pe
 
 This script offers a comprehensive approach to regression analysis on a dataset. It provides insights into the performance of different regression algorithms, feature importance analysis, dimensionality reduction, and data normalization. By using this script, researchers and practitioners can gain valuable insights from their dataset and make informed decisions for prediction tasks.
 
+![image](https://github.com/yusuftahakara19/Python-Codes/assets/119736588/76c855f4-cca8-4d72-b18b-5023e64c9c32)
+![image](https://github.com/yusuftahakara19/Python-Codes/assets/119736588/19a87ae9-00a8-41d5-970f-3b0ad4ce4676)
+![image](https://github.com/yusuftahakara19/Python-Codes/assets/119736588/eaa6b99f-9ff9-4d22-ac96-91c0f98c305c)
+![image](https://github.com/yusuftahakara19/Python-Codes/assets/119736588/069b2511-004b-4b99-b59d-234b2344ef94)
+![image](https://github.com/yusuftahakara19/Python-Codes/assets/119736588/d9ad1ff9-1b31-42a7-9d68-57e58155621c)
 
 <hr>
