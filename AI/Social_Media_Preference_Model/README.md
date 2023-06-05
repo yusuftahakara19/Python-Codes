@@ -1,0 +1,3 @@
+This code contains the user's age, gender, education level, frequency of use of social media, purpose of use of social media, type of content consumed, accounts followed, type of interaction, shopping preference, type of product of interest, advertisement perception, advertisement preference, active time zone and used It creates a machine learning model to predict social media usage habits based on factors such as features.
+
+Specific questions are asked to the user and the appropriate social media platform is recommended according to the answers given. This classification is performed using a trained Random Forest classifier. The classifier tries to predict the correct class by putting together many decision trees.
